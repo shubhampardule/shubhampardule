@@ -63,7 +63,7 @@
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10neWOlF&layout=compact&theme=minimal&hide_border=true&title_color=2D3436&text_color=636E72&icon_color=FF6B6B" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampardule&layout=compact&theme=minimal&hide_border=true&title_color=2D3436&text_color=636E72&icon_color=FF6B6B" width="100%"/>
 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 
 ### 📊 **Journey Metrics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=10neWOlF&show_icons=true&theme=minimal&hide_border=true&title_color=2D3436&text_color=636E72&icon_color=FF6B6B&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=10neWOlF&theme=minimal&hide_border=true&stroke=2D3436&ring=FF6B6B&fire=4ECDC4&currStreakLabel=636E72" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shubhampardule&show_icons=true&theme=minimal&hide_border=true&title_color=2D3436&text_color=636E72&icon_color=FF6B6B&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampardule&theme=minimal&hide_border=true&stroke=2D3436&ring=FF6B6B&fire=4ECDC4&currStreakLabel=636E72" width="48%"/>
 
 </div>
 
@@ -113,7 +113,7 @@
 <tr>
 <td align="center" width="50%">
 <h4>🚀 TransmitFlow</h4>
-<a href="https://github.com/10neWOlF/transmitflow">
+<a href="https://github.com/shubhampardule/transmitflow">
 <img src="https://img.shields.io/badge/Explore-2D3436?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
@@ -124,7 +124,7 @@
 </td>
 <td align="center" width="50%">
 <h4>⚡ Innovation Lab</h4>
-<a href="https://github.com/10neWOlF">
+<a href="https://github.com/shubhampardule">
 <img src="https://img.shields.io/badge/Discover-2D3436?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
@@ -144,7 +144,7 @@
 
 ### 🤝 **Let's Connect**
 
-<a href="https://github.com/10neWOlF">
+<a href="https://github.com/shubhampardule">
 <img src="https://img.shields.io/badge/GitHub-2D3436?style=flat&logo=github&logoColor=white&labelColor=2D3436" height="30"/>
 </a>
 <a href="https://www.linkedin.com/in/shubhampardule/">
@@ -160,7 +160,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=10neWOlF&style=flat&color=FF6B6B&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shubhampardule&style=flat&color=FF6B6B&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
